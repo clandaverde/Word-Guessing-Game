@@ -1,0 +1,10 @@
+lynx
+dog
+skipper
+pizza
+lion
+leopard
+soccer
+basketball
+football
+boston
